@@ -1,0 +1,1 @@
+2.0.0,YRMOD,https://github.com/YRMod/Update/raw/refs/heads/main/libBangjo.so
